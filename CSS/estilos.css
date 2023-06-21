@@ -1,0 +1,37 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(rgb(94, 94, 250),rgb(116, 116, 214),rgb(163, 163, 212));
+} 
+
+.soporte{
+    background-color: gainsboro;
+    width: 500px;
+    border-radius: 20px;
+    margin: 100px auto 100px auto;
+    border: 3px dashed honeydew;
+}
+
+.ingreso{
+    justify-content: space-around;
+    display: flex;
+}
+    
+.ingreso-box{
+    margin: 1%; 
+}
+.login{
+    
+    background:rgb(136, 136, 248);
+    padding: 1rem;
+    margin: 10px auto;
+    justify-content: space-around;
+    display: flex;
+}
+
+
+
+
+
+
+
